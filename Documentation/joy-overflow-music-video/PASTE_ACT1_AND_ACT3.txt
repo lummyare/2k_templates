@@ -1,0 +1,94 @@
+# JOY OVERFLOW: Missing shots for drama.land
+
+## PART 1: ACT 1 (Shots 1–30)
+
+### ACT 1: THE GRASS (0:00 – 1:37)
+
+#### SEQ 1: INTRO / COLD OPEN (0:00 – 0:19)
+| # | Time | Type | Shot | Camera | Action / Performance |
+|---|---|---|---|---|---|
+| 1 | 0:00–0:05 | D | **Aerial dawn over Lagos**: the drone pushes slowly along Third Mainland Bridge over the lagoon mist, danfo buses crawling | DJI Inspire 3, 24mm, 120 m, slow push | Title card: *"Lagos. Before."* |
+| 2 | 0:05–0:09 | D→B | The drone tilts down and descends under the bridge to find a figure asleep on flattened cardboard | Inspire 3, continuous descent | **W1**. His face hidden in his arm |
+| 3 | 0:09–0:12 | B | ECU: a drip of water from the bridge falls onto his cheek. His eyes open. The first "overflow" | 100mm macro, 120 fps | Eyes open, tired, no hope |
+| 4 | 0:12–0:15 | A | **Hard cut to black, then the SPOTLIGHT snaps on** in the warehouse. The artist in **W6** stands behind the mic stand, eyes closed | CR high wide, 18mm, slow boom down | He breathes in. First line starts |
+| 5 | 0:15–0:19 | A | MCU, the dolly pushes in as he sings *"Joy overflow in my heart today / I go dance, I go shout, hallelujah"* | DL, 50mm, T1.8 | **Lip-sync.** Gentle smile, eyes open on "hallelujah" |
+
+#### SEQ 2: VERSE 1, REJECTION MONTAGE (0:19 – 0:41)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 6 | 0:19–0:22 | B | **Balogun Market**: he stretches out an empty palm to passers-by. A woman pulls her child away. A man waves him off | HH, 35mm, shoulder, crowd blur | **W1**. Head down |
+| 7 | 0:22–0:24 | A | Profile silhouette, backlit haze. *"See the blessings overflow, oh my Father"* | SC orbit, 35mm | Hand on the mic, head tilted up |
+| 8 | 0:24–0:27 | B | **Marina office tower**: in **W2** he clutches his CV. The security guard blocks the glass doors, points away and shakes his head | Low angle, 24mm, towers loom like mountains | Sweat, a polite smile that fades |
+| 9 | 0:27–0:29 | B | Inside, a receptionist drops his CV into the bin without reading it. His reflection is in the glass | Rack focus, 85mm | Silent pain |
+| 10 | 0:29–0:32 | A | Wide from behind the artist: two white-uniformed camera ops track him on either side. Crane arm rises | CR, 21mm | *"Like a bridge You carried me through"*, arms slightly open |
+| 11 | 0:32–0:36 | B | **Surulere studio (W3)**: he sings from his notebook. A producer and three musicians laugh. One takes his notebook and tosses it on the floor. The door shuts in his face | HH, 28mm, whip pans | Humiliation. He picks up the notebook |
+| 12 | 0:36–0:39 | B | Rusted gate padlock ("chains"). He slides down against the gate to the ground | 50mm, 48 fps | Head in hands |
+| 13 | 0:39–0:41 | A | CU: *"Jesus, You took hold of me"*. A single tear catches the spotlight | 85mm, dolly in slowly | Eyes glassy, voice steady. **Pivotal lip-sync** |
+
+#### SEQ 3: PRE-CHORUS, THE RAIN (0:41 – 0:58)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 14 | 0:41–0:44 | B | **Night, Third Mainland Bridge, heavy rain.** He walks alone on the walkway under sodium light, soaked (W1) | D: Inspire 3 low tracking alongside the railing, 35mm | Rain in the light |
+| 15 | 0:44–0:47 | A | MS: *"I will sing Your praise"*. He lifts the mic stand slightly off the floor | 35mm, locked off | Strength building |
+| 16 | 0:47–0:50 | B | He stops mid-bridge and looks up into the rain. Arms slowly open | **CR** rises from his face up to a 20 m top shot: a tiny man on a vast bridge | Surrender. The turning point starts |
+| 17 | 0:50–0:54 | A | *"I will lift Your name / Joy overflow, hallelujah"*. Top-down crane shot on the artist, spotlight circle as a perfect halo | CR top shot, 18mm | Head tilted up to the lens |
+| 18 | 0:54–0:58 | A↔B | **Match cut:** his upturned face in the rain becomes his upturned face in the spotlight. Same framing and angle | 50mm, both worlds | Signature transition of the film |
+
+#### SEQ 4: CHORUS 1, THE FIRST SPARK (0:58 – 1:22)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 19 | 0:58–1:01 | A | *"Hallelujah, hallelujah"*. Haze beams fire on. Wide. | Technocrane sweeping 180° around him | Big open-mouth "hallelujah", one hand raised |
+| 20 | 1:01–1:04 | B | **Yaba bus stop, morning (W4)**. He begins to sing to the danfo queue. People ignore him at first | HH, 35mm | Eyes closed, singing freely |
+| 21 | 1:04–1:07 | A | CU lip-sync *"Joy overflow in my heart today"* | 85mm | Natural smile reaches his eyes |
+| 22 | 1:07–1:10 | B | A market woman starts clapping. A conductor bangs the side of the bus in rhythm. Kids begin to dance | SC through the crowd | Joy spreads |
+| 23 | 1:10–1:13 | A | *"I go dance, I go shout, hallelujah"*. He rocks the mic stand side to side on the beat | 35mm, low angle | Shoulders bounce on beats 2 and 4 |
+| 24 | 1:13–1:16 | B | A young woman films him on her phone. Insert of the phone screen: "LIVE 2.4K viewers", hearts floating | Screen insert, 50mm | This is the viral seed |
+| 25 | 1:16–1:19 | A | **FPV drone** dives from the warehouse rafters, through the haze beam, and stops at his face | FPV, 14mm | *"Hallelujah"* |
+| 26 | 1:19–1:22 | A | *"Hey!"*: he throws his hand up. The lights hit full. | Wide, 24mm | Punctuation on "Hey!" |
+
+#### SEQ 5: INSTRUMENTAL BREAK, THE CALL (1:22 – 1:37)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 27 | 1:22–1:26 | B | Montage of phone screens: views 10K → 500K → 2M, shares, "Who is this man??" | Screen inserts, rhythmic cuts on every bar | |
+| 28 | 1:26–1:30 | B | Under the bridge, his old phone vibrates: "Unknown number". He answers. We don't hear it | 50mm, handheld still | His hand trembles |
+| 29 | 1:30–1:34 | B | His face slowly breaks into disbelief, then tears, then laughter | 85mm, 48 fps, no cuts | **Best acting beat of the film.** Hold it |
+| 30 | 1:34–1:37 | A | Warehouse: he grips the stand with both hands, eyes closed, nodding to the groove | Slow dolly out | Stillness before Act 2 |
+
+---
+
+## PART 2: ACT 3 (Shots 54–72)
+
+### ACT 3: OVERFLOW (2:56 – 4:30)
+
+#### SEQ 9: FINAL CHORUS / VAMP, HEAD LIFTED (2:56 – 3:30)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 54 | 2:56–3:00 | A | *"Yeah, yeah, yeah / Lift my head"*. **The whole warehouse lights up gold** | CR sweeping wide, 18mm | Head up, chin lifted |
+| 55 | 3:00–3:04 | B | **Return to the bridge**: same location as Shot 2, now in W6. His convoy parks. He kneels where he once slept | Match framing to Shot 2 | Quiet, reverent |
+| 56 | 3:04–3:08 | A | *"I'll sing Your praise, every moment"* | 50mm, dolly in | Tender smile |
+| 57 | 3:08–3:12 | B | He hands out food packs and school bags to street kids and families under the bridge. His team sets up tables | HH 35mm, warm | Genuine laughter with the kids |
+| 58 | 3:12–3:16 | A | *"Hallelujah"*. He shares the mic moment with the crew | 24mm | |
+| 59 | 3:16–3:20 | B | The market woman from Shot 6, the security guard from Shot 8 and the producer from Shot 11 now **clap** for him in the crowd | Quick 3-shot pattern, 50mm | Redemption faces |
+| 60 | 3:20–3:25 | B | The kids and street vendors **dance** "I go dance, I go shout": Afro-gospel footwork under the bridge | SC in the circle, 60 fps | Community joy |
+| 61 | 3:25–3:30 | A | *"Joy overflow, hallelujah"*. Big CU, broad smile, eyes wet | 85mm | Emotional peak of the lip-sync |
+
+#### SEQ 10: INSTRUMENTAL / CHOIR RIDE-OUT, THE HEIGHTS (3:30 – 4:07)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 62 | 3:30–3:36 | D | **Hero drone**: from the bridge charity scene, a continuous climb above Third Mainland Bridge and over the lagoon, ending on the Eko Atlantic skyline with his building | Inspire 3, one take | The bridge carried him |
+| 63 | 3:36–3:41 | B | His company HQ rooftop at sunset (W6): he stands with his team. Lagos glows behind them | CR/D rooftop orbit | Leader, not boss |
+| 64 | 3:41–3:46 | A | The warehouse crew all dance in formation around the spotlight. **The artist dances away from the mic stand** for the first time | Technocrane overhead, 18mm | Freedom |
+| 65 | 3:46–3:52 | B | **Split-screen** rapid cuts at 2 per bar pairing THEN / NOW: cardboard bed / leather jet seat, torn CV / signed contract, locked gate / keys in hand, empty palm / handing out food | Matched framings | The whole film in 6 seconds |
+| 66 | 3:52–3:58 | A | He comes back to the mic stand and grabs it with both hands. Ad-lib vocals | FPV fly-through from behind the crew to his face | |
+| 67 | 3:58–4:07 | A | **LOUDEST POINT, CONFETTI DROP**: gold confetti pours through the spotlight. Arms spread wide, head back, laughing | CR rising, 120 fps | THE "Joy Overflow" image, the poster frame |
+
+#### SEQ 11: OUTRO, BENEDICTION (4:07 – 4:30)
+| # | Time | Type | Shot | Camera | Action |
+|---|---|---|---|---|---|
+| 68 | 4:07–4:12 | A | *"Hallelujah!"* ad-libs. MCU, confetti still falling | 50mm | Relaxed joy |
+| 69 | 4:12–4:17 | B | Flashback to the ECU of the water drop from Shot 3. His eyes open again, but now we **cross-dissolve** to the present-day eyes, full of light | 100mm macro → 85mm | Full circle |
+| 70 | 4:17–4:22 | A | The crew lower their cameras and applaud. He bows his head, hand on heart | Wide, 24mm | Humility |
+| 71 | 4:22–4:27 | A | **The spotlight fades to black**, and only the silhouette with the mic stand remains | Locked wide | |
+| 72 | 4:27–4:30 | — | Title on black: ***"From Grass to Grace."*** → *JOY OVERFLOW* → artist name | | |
+
+---
