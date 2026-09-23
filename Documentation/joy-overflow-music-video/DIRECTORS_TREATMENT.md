@@ -149,6 +149,7 @@ Hallelujah! (ad-libs, call & response)
 - **The crew is part of the picture:** camera operators in **all-white crew uniforms** (white overalls/caps) running **white-bodied cinema rigs** such as RED V-Raptor and ARRI Alexa 35 in white cages, a **Technocrane**, a **dolly on tracks**, a **Steadicam op**, and an FPV drone pilot. They are lit as silhouettes and rim-lit shapes around the spotlight. The audience should *feel* a major production is happening around this man.
 
   > If you meant something different by "white camera men", tell me and I'll adjust. The idea as written is to show the scale of the production.
+
 - **Light build across the song:** Intro has one spotlight only. Chorus 1 adds backlight haze beams. Verse 2 brings in practical tungsten bulbs across the trusses. Bridge flashes strobe white on "Chains are broken". Final chorus lights the whole warehouse in gold, and the crew start to dance. Outro ends with gold confetti falling through the spotlight.
 
 ### B-ROLL 1: "GRASS" (micro-drama, Lagos lows)
